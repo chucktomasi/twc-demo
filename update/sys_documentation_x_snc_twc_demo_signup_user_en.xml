@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Signup" language="en" table="x_snc_twc_demo_signup">
+    <sys_documentation element="user" label="User" language="en" table="x_snc_twc_demo_signup">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>user</element>
             <help/>
             <hint/>
-            <label>Signup</label>
+            <label>User</label>
             <language>en</language>
             <name>x_snc_twc_demo_signup</name>
-            <plural>Signups</plural>
+            <plural>Users</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-09-27 15:11:57</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>ea0515fe138622001098b5f12244b08e</sys_id>
+            <sys_created_on>2016-09-27 15:19:59</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>10e6957213c622001098b5f12244b05a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Signup</sys_name>
+            <sys_name>User</sys_name>
             <sys_package display_value="TWC Demo" source="x_snc_twc_demo">5d059d72130622001098b5f12244b06a</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="TWC Demo">5d059d72130622001098b5f12244b06a</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_twc_demo_signup__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_twc_demo_signup_user_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-09-27 15:11:57</sys_updated_on>
+            <sys_updated_on>2016-09-27 15:19:59</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
