@@ -5,7 +5,6 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
-        <license_model>none</license_model>
         <logo/>
         <menu display_value="TWC Demo">a10515fe138622001098b5f12244b039</menu>
         <name>TWC Demo</name>
